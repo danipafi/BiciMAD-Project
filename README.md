@@ -1,5 +1,5 @@
 # BiciMAD-Project
-A Python App that allow users to find the nearest BiciMAD station to all the Municipal Accessible Facilities in Madrid.
+This is a Python App that allow users to find the nearest BiciMAD station from all the Municipal Accessible Facilities in Madrid.
 
 When executing the app using argparse, the user has 3 options. They can:
 

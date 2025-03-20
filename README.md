@@ -1,6 +1,6 @@
 # BiciMAD-Project
 
-Ironhack Madrid - Data Analytics Part Time - Ene 2024 - Project Module 1
+Ironhack Madrid - Data Analytics Part Time - Project Module 1
 
 ## Description and examples
 
